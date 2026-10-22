@@ -1,0 +1,23 @@
+{
+  "name": "RamonCabeza Custom List",
+  "timestamp": "2026-10-21T00:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://githubusercontent.com",
+  "keywords": ["base", "utility", "rkbz"],
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x542d5a808711dc00994054a55ad8dcf522417d28",
+      "name": "RKbz Utility Token",
+      "symbol": "RKBZ",
+      "decimals": 18,
+      "logoURI": "https://githubusercontent.com",
+      "tags": ["utility"]
+    }
+  ]
+}
