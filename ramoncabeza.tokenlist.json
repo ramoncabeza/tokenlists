@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "tokenlists/0x542D5a808711dc00994054A55aD8dCf522417D28.png",
+  "logoURI": "https://github.com",
   "keywords": ["base", "utility", "rkbz"],
   "tokens": [
     {
@@ -16,7 +16,7 @@
       "name": "RKbz Utility Token",
       "symbol": "RKBZ",
       "decimals": 18,
-      "logoURI": "tokenlists/0x542D5a808711dc00994054A55aD8dCf522417D28.png",
+      "logoURI": "https://github.com",
       "tags": ["utility"]
     }
   ]
