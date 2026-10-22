@@ -7,8 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://github.com/ramoncabeza/tokenlists/commit/23737d66cacf93e6246728db3f755443e39c4a14#diff-c81dc672b7b49541e47469f946bc8041ed26026545d14ad6136159dc66f34834
-",
+  "logoURI": "tokenlists/0x542D5a808711dc00994054A55aD8dCf522417D28.png",
   "keywords": ["base", "utility", "rkbz"],
   "tokens": [
     {
@@ -17,8 +16,7 @@
       "name": "RKbz Utility Token",
       "symbol": "RKBZ",
       "decimals": 18,
-      "logoURI": "https://github.com/ramoncabeza/tokenlists/commit/23737d66cacf93e6246728db3f755443e39c4a14#diff-c81dc672b7b49541e47469f946bc8041ed26026545d14ad6136159dc66f34834
-",
+      "logoURI": "tokenlists/0x542D5a808711dc00994054A55aD8dCf522417D28.png",
       "tags": ["utility"]
     }
   ]
